@@ -9,7 +9,7 @@ public class Book {
     int numberOfRatings;
 
     //Метод описание выводит инфо о книге
-    void displayBook(){
+    void displayBook() {
         System.out.println("ID: " + id + " | Book: '" + title + "' by Author: '" + author + "'");
     }
 }

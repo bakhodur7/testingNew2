@@ -9,7 +9,7 @@ public class Test {
 
         Student student = new Student();
         student.name = "John";
-        student.studentID = 12345;
+        student.studentId = 12345;
 
         Library library = new Library();
         library.availableBook = book;
